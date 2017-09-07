@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:background="@color/colorPrimary"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                tools:context="io.github.mayubao.kuaichuan.ui.HomeActivity"
+                tools:showIn="@layout/app_bar_home">
+
+
+    <LinearLayout
+        android:id="@+id/ll_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_send_big"
+            style="@style/style_home_big_text_view"
+            android:layout_marginTop="100dp"
+            android:text="@string/str_send"/>
+
+        <Button
+            android:id="@+id/btn_receive_big"
+            style="@style/style_home_big_text_view"
+            android:layout_marginTop="@dimen/dp_32"
+            android:text="@string/str_receive"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom|center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="30dp">
+
+            <LinearLayout
+                android:paddingRight="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/edit_userid"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/selector_home_text_view_big"
+                    android:digits="1234567890qwertyuiopasdfghjklzxcvbnm"
+                    android:hint="聊天对象的userid"
+                    android:paddingBottom="5dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="5dp"
+                    android:singleLine="true"
+                    android:textColor="@color/white"
+                    android:textColorHint="#cccccc"
+                    android:textSize="11sp"/>
+
+                <Button
+                    android:id="@+id/btn_easeui"
+                    android:layout_width="150dp"
+                    android:layout_height="46dp"
+                    android:background="@drawable/selector_home_text_view_big"
+                    android:text="发起聊天"
+                    android:textColor="@color/white"
+                    />
+
+            </LinearLayout>
+
+            <Button
+                android:layout_marginLeft="10dp"
+                android:id="@+id/btn_easelist"
+                android:layout_width="150dp"
+                android:layout_height="46dp"
+                android:background="@drawable/selector_home_text_view_big"
+                android:text="聊天列表"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_main"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:padding="@dimen/activity_horizontal_margin">
+
+        <RelativeLayout
+            android:id="@+id/rl_device"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_default_view"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_device"
+                style="@style/style_home_bottom_image_view"/>
+
+            <TextView
+                android:id="@+id/tv_device_desc"
+                style="@style/style_home_bottom_text_view"
+                android:layout_below="@id/iv_device"
+                android:text="@string/str_0"/>
+
+            <TextView
+                style="@style/style_home_bottom_text_view2"
+                android:layout_below="@id/tv_device_desc"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_file"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_default_view"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_file"
+                style="@style/style_home_bottom_image_view"
+                android:background="@drawable/ic_file_24dp"/>
+
+            <TextView
+                android:id="@+id/tv_file_desc"
+                style="@style/style_home_bottom_text_view"
+                android:layout_below="@id/iv_file"
+                android:text="@string/str_0"/>
+
+            <TextView
+                style="@style/style_home_bottom_text_view2"
+                android:layout_below="@id/tv_file_desc"
+                android:text="@string/str_receive_file"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_storage"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/selector_default_view"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/iv_storage"
+                style="@style/style_home_bottom_image_view"
+                android:background="@drawable/ic_storage_24dp"/>
+
+            <TextView
+                android:id="@+id/tv_storage_desc"
+                style="@style/style_home_bottom_text_view"
+                android:layout_below="@id/iv_storage"
+                android:text="@string/str_0"/>
+
+            <TextView
+                style="@style/style_home_bottom_text_view2"
+                android:layout_below="@id/tv_storage_desc"
+                android:text="@string/str_save_stream"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</RelativeLayout>

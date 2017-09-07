@@ -1,0 +1,828 @@
+[
+    {
+        "outputFile": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1922,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2344
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2349,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2769
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2364,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2774,
+                    "endColumn": 88,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2968,
+                        "endColumn": 88,
+                        "endOffset": 3052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 100,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3057,
+                        "endColumn": 100,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3158,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3787
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3566,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3792,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3894
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4165,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3899,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4272,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 70,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4580,
+                        "endColumn": 70,
+                        "endOffset": 4646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endColumn": 82,
+                    "endOffset": 4177
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4651,
+                        "endColumn": 82,
+                        "endOffset": 4729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4182,
+                    "endLine": 109,
+                    "endColumn": 12,
+                    "endOffset": 7885
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4734,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7890,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 11733
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8442,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 11738,
+                    "endColumn": 90,
+                    "endOffset": 11824
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 90,
+                        "endOffset": 12555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11829,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 11999
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12004,
+                    "endColumn": 84,
+                    "endOffset": 12084
+                },
+                "from": {
+                    "file": "E:\\MyImportantProject\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 91,
+                        "endOffset": 489
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1491
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1496,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1917
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1511,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1922,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2344
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1937,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2349,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2769
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2364,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2774,
+                    "endColumn": 88,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2968,
+                        "endColumn": 88,
+                        "endOffset": 3052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 100,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3057,
+                        "endColumn": 100,
+                        "endOffset": 3153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3158,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3787
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3566,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3792,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3894
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4165,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3899,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4023
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4272,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4028,
+                    "endColumn": 70,
+                    "endOffset": 4094
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4580,
+                        "endColumn": 70,
+                        "endOffset": 4646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4099,
+                    "endColumn": 82,
+                    "endOffset": 4177
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4651,
+                        "endColumn": 82,
+                        "endOffset": 4729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4182,
+                    "endLine": 109,
+                    "endColumn": 12,
+                    "endOffset": 7885
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4734,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 7890,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 11733
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8442,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 11738,
+                    "endColumn": 90,
+                    "endOffset": 11824
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 90,
+                        "endOffset": 12555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11829,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 11999
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12004,
+                    "endColumn": 84,
+                    "endOffset": 12084
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\Desktop\\xingkong\\KuaiChuan-master\\easeui\\src\\main\\res\\values-v11\\ease_styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 91,
+                        "endOffset": 489
+                    }
+                }
+            }
+        ]
+    }
+]

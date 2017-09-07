@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.hyphenate.easeui"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="20"/>
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+    >
+        <activity android:name=".ui.EaseBaiduMapActivity"></activity>
+        <activity android:name=".ui.EaseBaseActivity"></activity>
+        <activity android:name=".ui.EaseShowBigImageActivity"></activity>
+        <activity android:name=".ui.EaseShowNormalFileActivity"></activity>
+        <activity android:name=".ui.EaseShowVideoActivity"></activity>
+    </application>
+</manifest>
